@@ -18,5 +18,6 @@ Tenho trabalhado em projetos próprios para aplicar meus conhecimentos e estou e
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
+ 
 💻 Acredito no poder da tecnologia para transformar vidas — e quero fazer parte disso com código, inovação e vontade de crescer.
 Vamos nos conectar? Estou aberto a oportunidades, networking e novos aprendizados.
